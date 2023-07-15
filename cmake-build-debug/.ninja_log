@@ -1,0 +1,16 @@
+# ninja log v5
+5	603	7111206200650063	CMakeFiles/untitled5.dir/task2.cpp.obj	3a4290d59885f454
+6	583	7111207962322221	CMakeFiles/untitled5.dir/task1.cpp.obj	a2bdbe3bf8d26297
+5	606	7111230045205353	CMakeFiles/untitled5.dir/main.cpp.obj	d2bf79a3a8421104
+5	591	7111231768964145	CMakeFiles/untitled5.dir/Task5.cpp.obj	abb7eae4c3c8c9a6
+591	751	7111231770437465	untitled5.exe	c2d2cc09d925da47
+11	621	7111220308787017	CMakeFiles/untitled5.dir/task3.cpp.obj	ff656d3f932fe496
+12	894	7111219425089380	CMakeFiles/untitled5.dir/task4.cpp.obj	ecfd3bea714115f1
+5	577	7111235412052142	CMakeFiles/untitled5.dir/main.cpp.obj	d2bf79a3a8421104
+11	628	7111235412570923	CMakeFiles/untitled5.dir/task6.cpp.obj	6c319494eedcae48
+628	812	7111235414285041	untitled5.exe	1b5e358d7f3f11b6
+5	627	7111236927498526	CMakeFiles/untitled5.dir/task6.cpp.obj	6c319494eedcae48
+628	817	7111236929285157	untitled5.exe	1b5e358d7f3f11b6
+5	613	7111238255190636	CMakeFiles/untitled5.dir/main.cpp.obj	d2bf79a3a8421104
+12	623	7111238255320622	CMakeFiles/untitled5.dir/task6.cpp.obj	6c319494eedcae48
+623	798	7111238256970597	untitled5.exe	1b5e358d7f3f11b6
