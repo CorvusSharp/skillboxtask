@@ -50,7 +50,6 @@ bool Task6::isEligible(const std::string& today, const std::string& birthdate) {
         age--;
     }
 
-    // Checking eligibility for alcohol sale
     if (age > 18) {
         return true;
     } else if (age == 18) {
