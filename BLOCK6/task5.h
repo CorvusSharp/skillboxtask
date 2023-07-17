@@ -39,6 +39,6 @@ void task5() {
 
     std::cout << "position : " << fib << "\n";
 }
-}
+
 
 #endif //BLOCK6_TASK5_H

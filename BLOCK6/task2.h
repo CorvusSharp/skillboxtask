@@ -12,6 +12,12 @@ void task2(){
     std::string num;
     std::cout<<"NUMB: ";
     std::cin>>num;
-    std::cout<<"len: "<< num.length();
+    if(std::stoll(num) <0){
+
+        std::cout<<"len: "<< num.length()-1;
+    } else{
+        std::cout<<"len: "<< num.length();
+    }
+
 }
 #endif //BLOCK6_TASK2_H
